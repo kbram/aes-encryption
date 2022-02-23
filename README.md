@@ -1,4 +1,4 @@
-# aes-encryption-react
+# aes-encryption-unlimited
 
 Unlimited String AES encryption and decryption with keys 
 
@@ -16,13 +16,13 @@ Installation is done using the
 Using npm:
 
 ```bash
-$ npm install aes-encryption-react
+$ npm i aes-encryption-unlimited
 ```
 
 Using yarn:
 
 ```bash
-$ yarn add aes-encryption-react
+$ yarn add aes-encryption-unlimited
 ```
 
 ## Features
@@ -41,8 +41,8 @@ import AesEncryption from "aes-encryption-react";
 
 
 //WithoutKey
-const encrypted = AesEncryption.encrypt("abc","passKey")}
-const decrypted = AesEncryption.decrypt("U2FsdGVkX19UMzTQ2ZzHlQCs7bfOzg/34fIfqvN4QRE=","passKey")
+const encrypted = AesEncryption.encrypt("abc")}
+const decrypted = AesEncryption.decrypt("U2FsdGVkX1+FGzP1ArvVkbieWzCb7KVNDFbSM079+N4=")
 
 console.log('encrypted >>>>>>', encrypted)
 console.log('decrypted >>>>>>', decrypted)
@@ -57,7 +57,7 @@ console.log('decrypted >>>>>>', decrypted)
 
 //inner html
  <p>{AesEncryption.encrypt("abc")}</p>
- <p>{AesEncryption.decrypt("U2FsdGVkX19UMzTQ2ZzHlQCs7bfOzg/34fIfqvN4QRE=")}</p>
+ <p>{AesEncryption.decrypt("U2FsdGVkX1+FGzP1ArvVkbieWzCb7KVNDFbSM079+N4=")}</p>
  
 ```
 
@@ -69,4 +69,4 @@ console.log('decrypted >>>>>>', decrypted)
 
 ---
 
-#### *Created by CODEMONDAY's Developers Team*
+>  Developed by Karunaaharan Bavaram

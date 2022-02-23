@@ -1,6 +1,6 @@
 {
   "name": "aes-encryption-unlimited",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Simply use unlimited string AES encryption, decryption with keys",
   "dependencies": {
   },
@@ -23,11 +23,12 @@
     "url": "git+https://github.com/kbram/aes-encryption.git"
   },
   "keywords": [
-    "[\"encryption\"",
-    "\"aes\"",
-    "\"encode\"",
-    "\"decryption\"",
-    "\"decode\"]"
+    "encryption",
+    "aes",
+    "encode",
+    "decryption",
+    "decode",
+    "unlimited"
   ],
   "author": "Karunaaharan Bavaram",
   "license": "MIT",
