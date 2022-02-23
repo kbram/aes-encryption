@@ -1,6 +1,6 @@
 # aes-encryption-react
 
-AES Encryption and decryption with keys for unlimited String
+Unlimited String AES encryption and decryption with keys 
 
 ## Installation
 
