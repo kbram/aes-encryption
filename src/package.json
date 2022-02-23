@@ -1,0 +1,15 @@
+{
+  "name": "aes-encryption",
+  "version": "0.1.0",
+  "description":"Simply use AES encryption, decryption with keys",
+  "author": "Karunaaharan Bavaram",
+  "license": "MIT",
+  "keywords": ["encryption", "aes", "encode","decryption","decode"],
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "files": [ "src", "README.md" ],
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/kbram/aes-encryption.git"
+  }
+}
