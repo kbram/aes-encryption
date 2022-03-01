@@ -11,7 +11,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/kbram/aes-encryption-unlimited">
+  <a href="https://github.com/kbram/aes-encryption">
     <img src="https://github.com/kbram/files/blob/main/encryption-icon.png" alt="Logo" width="160" height="160">
   </a>
 
@@ -20,14 +20,14 @@
   <p align="center">
     Unlimited String AES encryption and decryption with key
     <br />
-    <a href="https://github.com/kbram/aes-encryption-unlimited"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/kbram/aes-encryption"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/kbram/aes-encryption-unlimited">View Demo</a>
+    <a href="https://github.com/kbram/aes-encryption">View Demo</a>
     ·
-    <a href="https://github.com/kbram/aes-encryption-unlimited/issues">Report Bug</a>
+    <a href="https://github.com/kbram/aes-encryption/issues">Report Bug</a>
     ·
-    <a href="https://github.com/kbram/aes-encryption-unlimited/issues">Request Feature</a>
+    <a href="https://github.com/kbram/aes-encryption/issues">Request Feature</a>
   </p>
 </div>
 
@@ -57,10 +57,7 @@
 <!-- PROJECT FEATHERS -->
 ## About Project
 
-[![](https://github.com/kbram/files/blob/main/half-pie.png)](https://github.com/kbram/files/blob/main/half-pie.png)
-
-
-This UI kit is simply represent ratio of two values with the pie chart. It's fully worked on react Js. In this graph is customizable, you can change color, text, font-style,back color. You can get percentage of ratio in center part.
+This is fully secure AES Encryption function. This is specially you can use unlimited length key and create unlimited length of string value. You can encrypt Json array also. It's have default key value and you can change own key value.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -146,15 +143,15 @@ Copyright (c) 2022 [`Karunaaharan Bavaram`](https://www.bavaram.info), contribut
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/kbram/aes-encryption-unlimited.svg?style=for-the-badge
-[contributors-url]: https://github.com/kbram/aes-encryption-unlimited/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/kbram/aes-encryption-unlimited.svg?style=for-the-badge
-[forks-url]: https://github.com/kbram/aes-encryption-unlimited/network/members
-[stars-shield]: https://img.shields.io/github/stars/kbram/aes-encryption-unlimited.svg?style=for-the-badge
-[stars-url]: https://github.com/kbram/aes-encryption-unlimited/stargazers
-[issues-shield]: https://img.shields.io/github/issues/kbram/aes-encryption-unlimited.svg?style=for-the-badge
-[issues-url]: https://github.com/kbram/aes-encryption-unlimited/issues
-[license-shield]: https://img.shields.io/github/license/kbram/aes-encryption-unlimited.svg?style=for-the-badge
-[license-url]: https://github.com/kbram/aes-encryption-unlimited/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/kbram/aes-encryption.svg?style=for-the-badge
+[contributors-url]: https://github.com/kbram/aes-encryption/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/kbram/aes-encryption.svg?style=for-the-badge
+[forks-url]: https://github.com/kbram/aes-encryption/network/members
+[stars-shield]: https://img.shields.io/github/stars/kbram/aes-encryption.svg?style=for-the-badge
+[stars-url]: https://github.com/kbram/aes-encryption/stargazers
+[issues-shield]: https://img.shields.io/github/issues/kbram/aes-encryption.svg?style=for-the-badge
+[issues-url]: https://github.com/kbram/aes-encryption/issues
+[license-shield]: https://img.shields.io/github/license/kbram/aes-encryption.svg?style=for-the-badge
+[license-url]: https://github.com/kbram/aes-encryption/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/bavaram
