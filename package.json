@@ -1,6 +1,6 @@
 {
   "name": "aes-encryption-unlimited",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Simply use unlimited string AES encryption, decryption with keys",
   "dependencies": {
   },
