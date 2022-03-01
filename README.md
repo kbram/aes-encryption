@@ -38,8 +38,8 @@
   <ol>
    <li><a href="#about-project">About Project</a></li>
    <li><a href="#features">Features</a></li>
-   <li><a href="#installation">Installation</a></li>
     <li><a href="#built-With">Built With</a></li>
+   <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usages</a></li>
     <li><a href="#browser-support">Browser Support</a></li>
     <li><a href="#license">License</a></li>
@@ -94,7 +94,6 @@ $ yarn add aes-encryption-unlimited
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-------
 
 ## Usage
 
