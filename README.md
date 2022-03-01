@@ -38,17 +38,9 @@
   <ol>
    <li><a href="#about-project">About Project</a></li>
    <li><a href="#features">Features</a></li>
-    <li><a href="#framework-support">Framework support</a></li>
+   <li><a href="#installation">Installation</a></li>
     <li><a href="#built-With">Built With</a></li>
-    <li>
-      <a href="#get-started">Get Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
     <li><a href="#usage">Usages</a></li>
-    <li><a href="#options">Options</a></li>
-    <li><a href="#callArrays">CallArrays</a></li>
     <li><a href="#browser-support">Browser Support</a></li>
     <li><a href="#license">License</a></li>
   </ol>
@@ -67,6 +59,13 @@ This is fully secure AES Encryption function. This is specially you can use unli
   * AES-unlimited decryption without key
   * AES-unlimited encryption with key
   * AES-unlimited decryption with key
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Built With
+
+* 100% [JavaScript](https://www.javascript.com/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -126,11 +125,21 @@ console.log('decrypted >>>>>>', decrypted)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Browser Support
+
+Native support
+
+- Chrome
+- Safari
+- FireFox
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
 ## License
 
   [MIT](LICENSE)
 
----
 
 >
 > Developed by [`Karunaaharan Bavaram`](https://www.bavaram.info)
